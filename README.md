@@ -78,8 +78,8 @@ Links:
 
 - [x] What's UML? 04:00
 - [x] Use Case Diagrams 03:35
-- [ ] Use Case Diagrams: Challenge 01:03
-- [ ] Use Case Diagrams: Solution 03:00
+- [x] Use Case Diagrams: Challenge 01:03
+- [x] Use Case Diagrams: Solution 03:00
 - [ ] Class Diagrams 03:28
 - [ ] Class Diagrams: Challenge 01:12
 - [ ] Class Diagrams: Solution 03:35
